@@ -1,0 +1,28 @@
+{
+    "name": "Test PWA",
+    "short_name": "Test",
+    "description": "Testing testing, 1, 2, 3",
+    "start_url": "/",
+    "scope": "/Home.html",
+    "icons": [
+      {
+        "src": "/icons/icon1.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon3.png",
+        "sizes": "256x2565",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon2.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#FFA500",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait"
+  }
